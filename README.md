@@ -73,9 +73,18 @@
 </p>
 <br/>
 <br/>
+<table>
+ <tbody>
+   <tr>
+    <td>
+     <img src="https://github-readme-stats.vercel.app/api?username=seobryn&show_icons=true&locale=en" alt="seobryn" />
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seobryn&show_icons=true&locale=en&layout=compact" alt="seobryn" />
+    </td>
+   </tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=seobryn&show_icons=true&locale=en" alt="seobryn" />
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seobryn&show_icons=true&locale=en&layout=compact" alt="seobryn" />
-</p>
+ </tbody>
+</table>
