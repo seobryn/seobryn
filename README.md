@@ -36,4 +36,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=seobryn&show_icons=true&locale=en" alt="seobryn" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=seobryn&show_icons=true&locale=en&layout=compact" alt="seobryn" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seobryn&show_icons=true&locale=en&layout=compact" alt="seobryn" />
+</p>
