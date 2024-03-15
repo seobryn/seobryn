@@ -31,4 +31,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/seobryn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seobryn" /></a></p><br><br>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=seobryn&show_icons=true&locale=en" alt="seobryn" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=seobryn&show_icons=true&locale=en&layout=compact" alt="seobryn" /></p>
+<div style="display:flex; align-items: center; justify-content:flex-start;" ><img src="https://github-readme-stats.vercel.app/api?username=seobryn&show_icons=true&locale=en" alt="seobryn" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=seobryn&show_icons=true&locale=en&layout=compact" alt="seobryn" /></div>
