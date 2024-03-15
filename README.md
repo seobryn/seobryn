@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Jose Joya</h1>
 <h3 align="center">Software Engineer from Colombia</h3>
 
+<table>
+ <tbody>
+   <tr>
+    <td>
+     <img src="https://github-readme-stats.vercel.app/api?username=seobryn&show_icons=true&locale=en" alt="seobryn" />
+    </td>
+    <td>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seobryn&show_icons=true&locale=en&layout=compact" alt="seobryn" />
+    </td>
+   </tr>
+ </tbody>
+</table>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seobryn&label=Profile%20views&color=0e75b6&style=flat" alt="seobryn" /> </p>
 
 - 🔭 I’m currently working on [Codeando](https://codeando.link)
@@ -69,18 +83,6 @@
  </p>
 <br/>
 <br/>
-<table>
- <tbody>
-   <tr>
-    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=seobryn&show_icons=true&locale=en" alt="seobryn" />
-    </td>
-    <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seobryn&show_icons=true&locale=en&layout=compact" alt="seobryn" />
-    </td>
-   </tr>
- </tbody>
-</table>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/seobryn"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seobryn" /></a>
 </p>
