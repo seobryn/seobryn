@@ -17,9 +17,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seobryn&label=Profile%20views&color=0e75b6&style=flat" alt="seobryn" /> </p>
 
-- 🔭 I’m currently working on [Codeando](https://codeando.link)
+- 🔭 I’m currently working on [Faster Web Framework](https://github.com/seobryn/faster)
 
-- 🌱 I’m currently learning **Ionic React for Mobile Games...**
+- 🌱 I’m currently learning **C++ for Games and Apps**
 
 - 👯 I’m looking to collaborate on [La Velada del año Web Page](https://lavelada.es)
 
