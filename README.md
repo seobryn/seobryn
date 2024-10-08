@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **C++ for Games and Apps**
 
-- 👯 I’m looking to collaborate on [La Velada del año Web Page](https://lavelada.es)
+- 👯 I’m looking to collaborate on [Crow cpp](https://github.com/CrowCpp/Crow)
 
 - 👨‍💻 All of my projects are available at [https://seobryn.vercel.app](https://seobryn.vercel.app)
 
