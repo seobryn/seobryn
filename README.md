@@ -25,8 +25,6 @@
 
 - 👨‍💻 All of my projects are available at [https://seobryn.vercel.app](https://seobryn.vercel.app)
 
-- 📝 I regularly write articles on [https://devexperiences.vercel.app](https://devexperiences.vercel.app)
-
 - 💬 Ask me about **React, React Native, Three.js, Astro, Next.JS**
 
 - 📫 How to reach me **ing.jose.joya@gmail.com**
