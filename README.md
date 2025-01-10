@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **ing.jose.joya@gmail.com**
 
-- 📄 Know about my experiences [https://seobryn.vercel.app/cv](https://seobryn.vercel.app/cv)
+- 📄 Know about my experiences [https://seobryn.vercel.app](https://seobryn.vercel.app)
 
 - ⚡ Fun fact **I like Play music 🎹🥁**
 
